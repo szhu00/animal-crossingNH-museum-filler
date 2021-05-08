@@ -11,7 +11,7 @@ export default function LiveC(props) {
 
     const getTimeZone = async () => {
 
-        fetch("http://api.timezonedb.com/v2.1/get-time-zone?key=UWZILNHADWRB&format=json&by=position&lat=" + zip.lat + "&lng=" + zip.lng)
+        fetch("https://api.timezonedb.com/v2.1/get-time-zone?key=UWZILNHADWRB&format=json&by=position&lat=" + zip.lat + "&lng=" + zip.lng)
             .then(res => res.json()).then((r) => setTimeZone(r.zoneName));
 
     }
