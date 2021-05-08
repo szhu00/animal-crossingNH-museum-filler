@@ -4,7 +4,7 @@ This is a website developed to help animal crossing new horizon players to brows
 API used: Animal crossing API, TimeZone DB API, Google Geolocation API, Joke API and Compliment API (55 points) .\
 AutoComplete(10 points) .\
 front-end developed using React (10 points) .\
-Firebase + FireStore (15 points) .\
+Firebase + FireStore (15 points) 
 
 
 ** lastly check out footer if you wanna link in ANCH :) .\
