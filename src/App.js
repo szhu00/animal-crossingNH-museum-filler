@@ -12,6 +12,7 @@ function App() {
   const [bugs, setBugs] = useState([]);
   const [seaCreatures, setSeaCreatures] = useState([]);
     let uid = user.uid;
+    
     const getCreatures = async () => {
     
     const fishData = await Api.get("fish").catch((err) => console.log("err ",err));
