@@ -1,0 +1,145 @@
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+.cancelBtn {
+    background-color: rgb(236, 100, 100);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+
+}
+.formBtn {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+.formBtn:hover {
+    opacity: 0.8;
+}
+
+.navBtn {
+    
+    color: rgb(80, 71, 56);
+ 
+    cursor: pointer;
+
+    float: right;
+
+    padding: 14px 20px;
+    font-size: large;
+    font-weight: bold;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    font-weight: bold;
+}
+.navBtn:hover{
+    opacity: 0.8;
+}
+span {
+    color: #42bd67;
+}
+span:hover{
+    opacity: 0.8;
+}
+
+.navbar {
+    background-image: url("https://i.redd.it/y5mzeig307b41.png");
+    overflow: hidden;
+    background-color: #80cf98;
+    font-family: Arial;
+    border:dashed rgb(173, 242, 247);
+    border-width:  5px;
+
+  }
+
+body {
+    background-color: rgb(126, 190, 126);
+}
+ 
+  .errMsg{
+      color: red;
+  }
+  
+  #startImg{
+    display: block;
+    
+    width: 100%;
+    
+  }
+
+  footer{
+    margin-left: 8%;
+    /* position:sticky; */
+    padding-top: 1rem;
+    /* position: absolute; */
+    height: 2.5rem;
+    bottom: 0;
+    font-size: 0.75rem;
+    text-align: center;
+    width: 80%;
+    color: rgb(59, 55, 47);
+  }
+  .title{
+      margin-top: 90px;
+      margin-left: 60px;
+      font-family: 'Original Surfer', cursive;
+      color: rgb(80, 71, 56);
+      font-weight: bold;
+      font-size:600%;
+
+      
+  }
+
+  #icon-acnh{
+    margin-top: 50px;
+  }
+
+  .navUL{
+    list-style-type: none;
+    
+
+  }
+  .navLI {
+    float: right;
+  }
+  .left {
+      display: flex;
+      float: left;
+      
+  }
+  #isabelle{
+    width: 12%;
+    float: left;
+
+  }
+  
+  #cj{
+    width: 15%;
+    float: left;
+
+  }
+
+  #pascal{
+    width: 10%;
+    float: left;
+    margin-top: 20px;
+  }
+
+  #flick{
+    width: 15%;
+    float: left;
+    margin-top: 5px;
+  }

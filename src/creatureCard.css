@@ -1,0 +1,120 @@
+
+.fishContainer {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.infoContainer{
+    margin: 10px 10px 10px 10px;
+}
+.card{
+    margin: 20px;
+    flex-grow: 1;
+    border: solid 2px #4b86b4;
+    border-radius: 5px;
+    background-color: #abcbe3;
+    
+    
+}
+.cardHeader{
+    background-color: #abcbe3; 
+    background-image: url("https://i.redd.it/y5mzeig307b41.png");
+}
+
+.proPic{
+    justify-self: center;
+    width: 200px;
+    justify-content: center;
+}
+.file-name{
+    margin-left: 3%;
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bold;
+    color: #2a4d69;
+}
+
+.cardBody{
+    color: #2a4d69;
+    background-color: #e7eff6;
+}
+
+.addCollectionBtn{
+    background-color: #abcbe3;
+    border: none;
+    padding: 4px 4px 4px 4px;
+    justify-content: right;
+    border-radius: 2px;
+    color: #2a4d69;
+    font-weight: bold;
+}
+
+.searchBar{
+    margin-top: 1px;
+    float: left; 
+     width: 99.5%;
+     height: 40px;
+     border-radius: 5px;
+}
+
+.searchBtn{
+    background-color: rgb(123, 193, 196);
+    border: solid 1px rgb(71, 127, 129);
+    color: white;
+    font-weight: bold;
+    width: 100%;
+    height:30px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+.cancel{
+    margin-top: 5px;
+    background-color: rgb(235, 110, 106);
+    border: solid 1px rgb(185, 80, 76);
+    color: white;
+    font-weight: bold;
+    width: 100%;
+    height:30px;
+    border-radius: 5px;
+}
+ button:hover{
+    opacity: 0.8;
+ }
+
+ .optionContainer{
+  
+     background-color: white;
+ }
+ .optionList{
+     list-style-type: none;
+ }
+ .optionItm{
+     margin-top: 15px;
+     font-size: large;
+     font-weight: bold;
+     color: cadetblue;
+ }
+ .optionItm:hover{
+    color:rgb(148, 219, 219);
+ }
+
+ #notFound{
+     margin-left: 50px;
+    font-weight: bold;
+    font-size:5em;
+    color: rgb(255, 255, 255);
+    padding-bottom: 200px;
+    opacity: 70%;
+ }
+
+ #trash{
+     width: 30px;
+
+ }
+ .clearBtn{
+     margin-top: 10px;
+    background-color: rgb(123, 193, 196);
+    border: solid 2px rgb(71, 127, 129);
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+ }
