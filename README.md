@@ -1,13 +1,13 @@
 # Animal Crossing New Horizon: Museum Filler 
 This is a website developed to help animal crossing new horizon players to browse all catchable creataures in the game. It has functionalities such as auto-complete that will make searching creatures easier. It will allow users to add already caught creatures to their collection, then base on their local time and creatures that they added to their collection, the website can help filter out what other creatures that's catchable at the moment.
 
-API used: Animal crossing API, TimeZone DB API, Google Geolocation API, Joke API and Compliment API (55 points)
-AutoComplete(10 points)
-front-end developed using React (10 points)
-Firebase + FireStore (15 points)
+API used: Animal crossing API, TimeZone DB API, Google Geolocation API, Joke API and Compliment API (55 points) .\
+AutoComplete(10 points) .\
+front-end developed using React (10 points) .\
+Firebase + FireStore (15 points) .\
 
 
-** lastly check out footer if you wanna link in ANCH :) 
+** lastly check out footer if you wanna link in ANCH :) .\
 website link: https://anch-museum-filler.herokuapp.com/
 
 
