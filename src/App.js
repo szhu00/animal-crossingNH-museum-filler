@@ -41,7 +41,7 @@ function App() {
       <footer>
       <div class="content has-text-centered">
         <p className="footerContent">
-           &#169; Moonbay Island Representive 🌙 Connect With Me in ANCH at Dream Adress: DA-5891-6905-3547-- Made with a lot of &#9749; for Comp 426 &#128564;
+           &#169; Moonbay Island Representative 🌙 Connect With Me in ANCH at Dream Adress: DA-5891-6905-3547-- Made with a lot of &#9749; for Comp 426 &#128564;
         </p>
         </div>
       </footer>
