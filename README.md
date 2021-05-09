@@ -7,7 +7,7 @@ front-end developed using React (10 points) .\
 Firebase + FireStore (15 points) 
 
 
-** lastly check out footer if you wanna link in ANCH :) .\
+** lastly check out footer if you wanna link in ACNH :) .\
 website link: https://anch-museum-filler.herokuapp.com/
 
 
