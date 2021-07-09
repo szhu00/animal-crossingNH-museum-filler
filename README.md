@@ -9,7 +9,7 @@ Firebase + FireStore (15 points)
 
 ** lastly check out footer if you wanna link in ACNH :) .\
 website link: https://anch-museum-filler.herokuapp.com/
-
+to log in use Username: demo@email.com password:123456
 
 # Getting Started with Create React App
 
